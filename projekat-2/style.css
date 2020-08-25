@@ -1,0 +1,44 @@
+* {box-sizing: border-box;}
+
+h1 {text-align: center;}
+
+footer .kontakt {background-color: crimson;float: right;padding-left: 0mm;}
+
+footer li {display: inline-block;background-color: chartreuse;padding-left: 0mm;font-size: 7mm;}
+     
+body {background-image: url("slike/1.jpg");background-repeat: no-repeat;background-size: 100%;background-attachment: fixed;}
+
+h2 {text-align: center;background-color: darkkhaki;}
+
+nav {background-color: darksalmon;width: 300mm;margin: auto;}
+
+ article ul {background-color: dodgerblue;font-size: 7mm;width: 300mm;margin: auto;}
+
+ aside {background-color: gold;width: 250mm;height: 250mm;margin: auto;}
+
+ section {text-align: center;}
+
+ h3 {text-align: center;}
+
+ .form {background-image: url("slike/4.jpg") ;margin: auto ;font-size: 5mm;padding-left: 100mm;margin: 100mm;margin-left: 100mm;border-left-width: 100mm;background-size: 100%;background-repeat: no-repeat;}
+ 
+ a {background-color: rgb(90, 128, 0);font-size: 10mm;}
+
+
+ section h3 {font-size: x-large;}
+
+ label ,input {font-size: 7mm;}
+
+ .form h2 {font-size: 10mm;}
+
+h4 {font-size: 8mm;}
+
+footer li {opacity: 0.5;transition: all 0.5s;}
+
+footer li:hover {opacity: 1;}
+
+#img {float: right;width: 90mm;height: 70mm;}
+
+#slika1 {width: 90mm;height: 70mm;}
+.o-nama {font-size: 7mm;text-align: center;background-color: snow;width: 200mm;height: 100mm;margin: auto;}
+section a {position:fixed;top: 900px;right:0px;}
